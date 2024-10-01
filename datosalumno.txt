@@ -1,0 +1,4 @@
+Nombre: Grecia Naomi Ocampo
+Edad: 22
+Carrera: Lic. Informatica
+Matricula: 10056017
